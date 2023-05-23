@@ -1,0 +1,46 @@
+-- Q1. What is the average income of customers? and What is the average 
+
+/*Q2. How many customers have complained in the last 2 years?
+*/
+
+/*Q3. What is the highest income among the customers?*/
+
+/* Q4. How many customers have completed a college education?*/
+
+/*Q. What is the average income of customers who have made at least one complaint?*/
+
+/*Q5. How many customers are married?*/
+
+/*Q6. What is the average number of children in customers' households?*/
+
+/*Q7. What is the average number of days since the last purchase for customers?
+*/
+
+/*Q8.How many customers have made a complaint and accepted at least one marketing campaign?*/
+
+/*Q9.What is the total amount spent on wines by all customers?*/
+
+/*Q10.What is the average amount spent on fruits by customers who made a complaint?*/
+
+/*Q11.How many customers made more than five deals and purchases?*/
+
+/*Q12.How many customers made purchases through the web and catalogs?*/
+
+/*Q13.What is the average number of store purchases for customers with an income above AVERAGE INCOME?*/
+
+/*Q14.How many customers accepted at least one marketing campaign AND  responded positively to the marketing campaign?*/
+
+/*Q15.What is the average income of customers who have made a complaint and accepted at least two marketing campaigns?*/
+
+/*Q16.What is the average number of web visits per month for customers who have a college education and are married?*/
+
+/*Q17.How many customers are there in each education level category AND AVERAGE SALARY?*/
+
+/*Q18.What is the average number of days since the last purchase for customers 
+who have accepted the third marketing campaign but rejected the fourth campaign?*/
+
+/*Q19.What is the average income of customers who have made purchases from all product categories
+(wines, fruits, meat products, fish products, sweet products, and gold products)?*
+
+/*Q20.What is the average number of purchases from each marketing channel 
+(web, catalog, store) for customers who have made at least one purchase?*/
