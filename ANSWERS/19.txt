@@ -1,0 +1,5 @@
+﻿Master	370	52202
+2n Cycle	203	46929
+Graduation	1127	52205
+PhD	486	55567
+Basic	54	20306
